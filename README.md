@@ -1,3 +1,5 @@
+# Simple Twitter API example
+
 Essa API é responsável por gerenciar operações básicas de um sistema de posts similar ao Twitter. Ela oferece funcionalidades para criar, visualizar, atualizar e excluir posts, além de permitir a contagem de favoritos para cada post individualmente.
 
 Os principais recursos disponíveis na API são:
